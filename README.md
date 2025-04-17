@@ -1,4 +1,4 @@
-# Homework12
+# Homework12 - Complete
 
 Exercises with Neural Networks
 
